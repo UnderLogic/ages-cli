@@ -1,0 +1,14 @@
+/target
+/Cargo.lock
+
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code files
+.vscode/
+
+# IntelliJ files
+.idea/
